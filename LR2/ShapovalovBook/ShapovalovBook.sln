@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapovalovBook", "ShapovalovBook\ShapovalovBook.csproj", "{D4CB17E3-8469-4329-B647-75ACE881861B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4CB17E3-8469-4329-B647-75ACE881861B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4CB17E3-8469-4329-B647-75ACE881861B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4CB17E3-8469-4329-B647-75ACE881861B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4CB17E3-8469-4329-B647-75ACE881861B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0B39E00-3EAD-40A9-A5F5-404D0D457C89}
+	EndGlobalSection
+EndGlobal
